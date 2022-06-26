@@ -1,0 +1,150 @@
+/**
+ * @file icon.css
+ */
+
+@font-face {
+    font-family: "iconfont";
+    src: url("iconfont.eot"); /* IE9 */
+    src: url("iconfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("iconfont.woff2") format("woff2"), /* chrome、firefox、opera、Safari, Android, iOS */
+    url("iconfont.woff") format("woff"), /* chrome、firefox */
+    url("iconfont.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("iconfont.svg#uxfonteditor") format("svg"); /* iOS 4.1- */
+}
+
+
+.iconfont {
+    font-family: "iconfont" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-calendar-check:before {
+  content: "\e664";
+}
+
+.icon-angle-left:before {
+  content: "\e7de";
+}
+
+.icon-behance:before {
+  content: "\e690";
+}
+
+.icon-angle-right:before {
+  content: "\e7dc";
+}
+
+.icon-hamburger:before {
+  content: "\e605";
+}
+
+.icon-search:before {
+  content: "\e911";
+}
+
+.icon-archive:before {
+  content: "\e681";
+}
+
+.icon-cup:before {
+  content: "\e645";
+}
+
+.icon-friend:before {
+  content: "\e679";
+}
+
+.icon-tag:before {
+  content: "\e626";
+}
+
+.icon-book:before {
+  content: "\e648";
+}
+
+.icon-home:before {
+  content: "\e8fa";
+}
+
+.icon-calendar-minus-o:before {
+  content: "\e8d5";
+}
+
+.icon-star:before {
+  content: "\e6a6";
+}
+
+.icon-code-fork:before {
+  content: "\e8da";
+}
+
+.icon-slack:before {
+  content: "\ea04";
+}
+
+.icon-weibo:before {
+  content: "\e603";
+}
+
+.icon-stackoverflow:before {
+  content: "\ea05";
+}
+
+.icon-twitter:before {
+  content: "\ea07";
+}
+
+.icon-facebook:before {
+  content: "\ea0c";
+}
+
+.icon-linkedin:before {
+  content: "\ea0d";
+}
+
+.icon-file:before {
+  content: "\e622";
+}
+
+.icon-rss:before {
+  content: "\e668";
+}
+
+.icon-github:before {
+  content: "\e64a";
+}
+
+.icon-project:before {
+  content: "\e762";
+}
+
+.icon-dribble:before {
+  content: "\e635";
+}
+
+.icon-telegram:before {
+  content: "\e646";
+}
+
+.icon-map-icon:before {
+  content: "\e7b3";
+}
+
+.icon-folder:before {
+  content: "\e69a";
+}
+
+.icon-link:before {
+  content: "\e821";
+}
+
+
+

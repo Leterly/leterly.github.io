@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-25T14:05:52.329Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1000 True Fans</title>
+    <link href="http://example.com/2022/06/25/1000-True-Fans/"/>
+    <id>http://example.com/2022/06/25/1000-True-Fans/</id>
+    <published>2022-06-25T14:01:01.000Z</published>
+    <updated>2022-06-25T14:05:52.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>要成为一个成功的创造者，你不需要数百万。您只需要1000位忠实粉丝。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;要成为一个成功的创造者，你不需要数百万。您只需要1000位忠实粉丝。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>B站的“算法”是什么？</title>
+    <link href="http://example.com/2022/06/25/B%E7%AB%99%E7%9A%84%E2%80%9C%E7%AE%97%E6%B3%95%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>http://example.com/2022/06/25/B%E7%AB%99%E7%9A%84%E2%80%9C%E7%AE%97%E6%B3%95%E2%80%9D%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
+    <published>2022-06-25T10:52:45.000Z</published>
+    <updated>2022-06-25T10:55:54.472Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用什么样算法，就会有什么样的用户体验</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;使用什么样算法，就会有什么样的用户体验&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
