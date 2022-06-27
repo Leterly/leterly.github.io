@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-25T14:05:52.329Z</updated>
+  <updated>2022-06-27T09:07:14.945Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么说小程序的商业价值被低估了？</title>
+    <link href="http://example.com/2022/06/27/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86%EF%BC%9F/"/>
+    <id>http://example.com/2022/06/27/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86%EF%BC%9F/</id>
+    <published>2022-06-27T09:05:24.000Z</published>
+    <updated>2022-06-27T09:07:14.945Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知不觉的小程序已经融入了我们的生活，大家已经习惯了它的存在。<br>当一件事变得不再炫酷、变得稀疏平常的时候，大概率说明这件事已经成了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;不知不觉的小程序已经融入了我们的生活，大家已经习惯了它的存在。&lt;br&gt;当一件事变得不再炫酷、变得稀疏平常的时候，大概率说明这件事已经成了。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>1000 True Fans</title>
